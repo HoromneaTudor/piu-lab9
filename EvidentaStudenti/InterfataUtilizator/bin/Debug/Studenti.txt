@@ -1,0 +1,4 @@
+1;sadas;fasdas;Calculatoare;PCLP4 DEEA14;10 10;4
+2;DSA;SAD;Calculatoare;MC2 SPORT;10 10;4
+3;fsadas;sda;Calculatoare;SPORT MC2;10 9;4
+4;dasdas;sadas;Calculatoare;PL PCLP;10 10;1
